@@ -1,0 +1,9 @@
+aiogram>=3.4,<4
+anthropic>=0.40
+python-dotenv>=1.0
+faster-whisper>=1.1
+av>=14
+numpy>=1.26
+sherpa-onnx>=1.12
+# только для генерации тестовой записи (scripts/make_test_meeting.py):
+edge-tts>=7.0
